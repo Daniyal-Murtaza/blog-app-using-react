@@ -1,15 +1,16 @@
 import logo from './logo.svg';
 import './App.css';
-import { useState } from 'react';
-
+import BlogNav from './components/BlogNav';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Posts from './components/Posts';
 
 
 
 const App = () => {
   return (
     <div>
-
-
+      <BlogNav/>
+      <Posts/>
     
     </div>
   );
