@@ -4,23 +4,6 @@ This project is a blog application built using ReactJS. The app demonstrates how
 
 ---
 
-## Features
-- React component-based architecture.
-- Individual posts and a post list displayed using reusable components.
-- Styled using custom CSS and Bootstrap.
-
----
-
-## Table of Contents
-1. [Project Description](#project-description)
-2. [Getting Started](#getting-started)
-3. [How to Run Locally](#how-to-run-locally)
-4. [Project Structure](#project-structure)
-5. [Dependencies](#dependencies)
-6. [Screenshots](#screenshots)
-
----
-
 ## Project Description
 In this project, we have created a blog application by first setting up a ReactJS project with the command:
 ```bash
